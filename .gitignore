@@ -1,0 +1,124 @@
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# ==========================
+# Python Virtual Environments
+# ==========================
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# IDEs & Editors
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Testing & Coverage
+# ==========================
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# ==========================
+# Type Checkers & Linters
+# ==========================
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Model & Experiment Artifacts
+# ==========================
+mlruns/
+wandb/
+tensorboard/
+lightning_logs/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+*.bak
+
+# ==========================
+# Local Database Files
+# ==========================
+*.sqlite
+*.sqlite3
+
+# ==========================
+# Secrets
+# ==========================
+.env.local
+.env.development
+.env.production
+
+# ==========================
+# Large Datasets & Models
+# Uncomment these if project contains
+# large files that should not be committed.
+# ==========================
+
+# data/
+# datasets/
+# models/
+# checkpoints/
+
+# Common data/model file types
+# *.csv
+# *.parquet
+# *.feather
+# *.h5
+# *.hdf5
+# *.pkl
+# *.joblib
+# *.onnx
+# *.pt
+# *.pth
+# *.safetensors
