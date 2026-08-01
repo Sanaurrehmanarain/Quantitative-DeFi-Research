@@ -96,10 +96,10 @@ This project is divided into four distinct modules, each targeting a specific do
 
 | Module | Directory | Focus | Core Technique |
 |---|---|---|---|
-| **I** | [`Project_01_AMM_Microstructure`](./01_AMM_Microstructure) | Mathematical modeling of Uniswap V2 liquidity pools | Constant-product bonding curve, slippage & impermanent loss |
-| **II** | [`Project_02_Statistical_Arbitrage`](./02_Statistical_Arbitrage) | High-frequency statistical arbitrage (pairs trading) | Cointegration, ADF testing, rolling z-score mean reversion |
-| **III** | [`Project_03_Monte_Carlo_Risk`](./03_Monte_Carlo_Risk) | Protocol solvency stress testing | Geometric Brownian Motion, Monte Carlo VaR |
-| **IV** | [`Project_04_Options_Pricing`](./04_Options_Pricing) | Black-Scholes pricing engine for DeFi Option Vaults (DOVs) | Black-Scholes, Greeks (Delta, Gamma) |
+| **I** | [`/Project_01_AMM_Microstructure`](./Project_01_AMM_Microstructure) | Mathematical modeling of Uniswap V2 liquidity pools | Constant-product bonding curve, slippage & impermanent loss |
+| **II** | [`/Project_02_Statistical_Arbitrage`](./Project_02_Statistical_Arbitrage) | High-frequency statistical arbitrage (pairs trading) | Cointegration, ADF testing, rolling z-score mean reversion |
+| **III** | [`/Project_03_Monte_Carlo_Risk`](./Project_03_Monte_Carlo_Risk) | Protocol solvency stress testing | Geometric Brownian Motion, Monte Carlo VaR |
+| **IV** | [`/Project_04_Options_Pricing`](./Project_04_Options_Pricing) | Black-Scholes pricing engine for DeFi Option Vaults (DOVs) | Black-Scholes, Greeks (Delta, Gamma) |
 
 ---
 
