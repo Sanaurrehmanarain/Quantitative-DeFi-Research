@@ -27,10 +27,10 @@
 <div align="center">
 
 <p>
-  <a href="./01_AMM_Microstructure"><img src="https://img.shields.io/badge/I_|_AMM_Microstructure-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
-  <a href="./02_Statistical_Arbitrage"><img src="https://img.shields.io/badge/II_|_Statistical_Arbitrage-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
-  <a href="./03_Monte_Carlo_Risk"><img src="https://img.shields.io/badge/III_|_Monte_Carlo_VaR-4CAF50?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="./04_Options_Pricing"><img src="https://img.shields.io/badge/IV_|_Options_Pricing-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="./Project_01_AMM_Microstructure"><img src="https://img.shields.io/badge/I_|_AMM_Microstructure-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
+  <a href="./Project_02_Statistical_Arbitrage"><img src="https://img.shields.io/badge/II_|_Statistical_Arbitrage-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
+  <a href="./Project_03_Monte_Carlo_Risk"><img src="https://img.shields.io/badge/III_|_Monte_Carlo_VaR-4CAF50?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="./Project_04_Options_Pricing"><img src="https://img.shields.io/badge/IV_|_Options_Pricing-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 </div>
